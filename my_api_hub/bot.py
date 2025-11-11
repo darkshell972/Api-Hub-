@@ -5,8 +5,8 @@ import telebot
 import redis
 
 # --- CONFIGURATION ---
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8279866700:AAEZ_-0B4NDHlnrhrj81a6knakqdlCWRRlg")
-ADMIN_TELEGRAM_ID = os.environ.get("ADMIN_TELEGRAM_ID", "7126849112")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8275497984:AAHe2chsaEsc-Ex6fxKsIyPSV2DFN87uZkk")
+ADMIN_TELEGRAM_ID = os.environ.get("ADMIN_TELEGRAM_ID", "5218397363")
 REDIS_URL = os.environ.get("REDIS_URL")
 
 # --- INITIALIZATION ---
